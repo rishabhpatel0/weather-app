@@ -4,7 +4,6 @@ A sleek and responsive **Weather Web App** built using **React + Vite**.
 This app allows users to **search weather by city** or instantly **get their current location's weather** using browser geolocation.  
 Also includes lazy-loaded weather sections and a visual temperature trend rendered via **Canvas API**.
 
-🌓 Fully optimized for **Dark Mode**.
 
 ---
 
